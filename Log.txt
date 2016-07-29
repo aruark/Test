@@ -81,6 +81,8 @@ July 26:
 	- User: John Muccigrosso
 
 July 29
-	- Removed "areas" of Largo Argentina and Sant'Omobono
+	- Removed "areas" of Largo Argentina, Sant'Omobono, and Forum Holitorium
 	- Moved coords and anglicized name for Mithraeum of Crypta Balbi
 	- Merged two Apollo (Sosianus) entries
+	- Merged Cybele/Magna Mater
+	- Moved coords for Venus Victrix slightly
